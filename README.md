@@ -98,7 +98,7 @@ Quanteq Technology Services Limited
 
 ## Intern, Microsoft Practice             			        2008 – 2010 
 Quanteq Technology Services Limited
-- Support in the implementation of several business solutions delivered with Microsoft and Cisco solutions.   
+- Supported in the implementation of several business solutions delivered with Microsoft and Cisco solutions.   
 
 # BUSINESS SKILLS
 - Understanding of the funder’s expectation working in non-government environment for 12+ years.
