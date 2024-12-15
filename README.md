@@ -25,7 +25,7 @@ Python, Java, Camel, JavaScript, PHP, android, Angular, React, SQL, Firebase, Ne
 
 
 # PROFESSIONAL EXPERIENCE
-Manager, Programmatic Solutions- Development and Innovations Lead               		2023 – Date
+## Manager, Programmatic Solutions- Development and Innovations Lead               		2023 – Date
 FHI360 UK, United Kingdom
 -Responsible for entire project life cycle to include, but not limited to, requirements assessment, project definition and project delivery utilizing resources for the development of and initial implementation of FHI 360 custom applications and other new applications in a matrix management environment 
 -Lead the expansion of functionalities/improvements for already existing applications. 
@@ -39,7 +39,7 @@ FHI360 UK, United Kingdom
 -Supports the development, implementation and monitoring of the Programmatic Solutions unit and ISS department strategies 
 -Provides leadership and management oversight, including agreeing priorities and monitoring accomplishments and challenges within their assigned ISS team.
  
-Senior Application Analyst                                        		2021 – 2023
+## Senior Application Analyst                                        		2021 – 2023
 FHI360 UK, United Kingdom
 -Technical ownership; responsible for the roll-out and support of DHIS2 globally.
 -Led innovative software engineering procedures to ensure improved efficiency of global projects.
@@ -54,7 +54,7 @@ FHI360 UK, United Kingdom
 -Testing and quality assurance of health systems.
 - Provided trainings on DHIS2 use to within and outside the team.
 
-Application Analyst (IT/Business Solutions)	       		2018 – 2020
+## Application Analyst (IT/Business Solutions)	       		2018 – 2020
 Family Health International (FHI 360) 
 -Marshalled direction for complex systems in coordinating the design, implementation, customization, and operational support of DHIS2 (HIMS) in Bangladesh, Botswana, Burundi, Cote’ d Ivoire, Nigeria, Mali, Kenya, and a global instance.
 -Pioneered the rebranding of the INFOLINK global instance UI to model PEPFAR’s DATIM DHIS2 Instance.
@@ -64,7 +64,7 @@ Family Health International (FHI 360)
 -Provided training on PowerBI for country teams for DHIS2 to PowerBI integration.
 -Successfully completed several DHIS2 projects and provided technical leadership.
 
-IT Officer                                                                     	2013 – 2018
+## IT Officer                                                                     	2013 – 2018
 Family Health International (FHI 360) - Strengthening Integrated Delivery of HIV/AIDS (SIDHAS) – USAID FUNDED
 -Coordinated an ITIL based IT service desk and managing service request of about 300 – 500 Staff in 13 remote locations. 
 -Pioneered the software development unit in web and mobile applications for data collections and reporting using custom android mobile applications and neurotech biometrics for UNHCR.
@@ -74,7 +74,7 @@ Family Health International (FHI 360) - Strengthening Integrated Delivery of HIV
 -Provided software solutions expertise and leadership in automating travels business processes used by over 800 in-country Staff that reduced processing approvals time by 80%.
 -Engaged in planning, designing, implementing, and maintaining servers, operating systems, software, databases, and network infrastructure.
 
-IT Project Manager                                                      	2013
+## IT Project Manager                                                      	2013
 Fortunes Dynamics Limited
 -Led several project teams by providing leadership for the successful implementation of the IT projects.
 -Improved projects timeliness and completion rate to 95%.
@@ -88,16 +88,16 @@ Fortunes Dynamics Limited
 -Consulting within the IT organization to develop appropriate support for IT-centric projects from various technology and service departments.
 -Worked closely with the business manager to define strategies, annual business plans, deliverables for business development and annual benchmarks.
 
-IT Projects Lead Consultant, Enterprise Solutions      	       2012 – 2013
+## IT Projects Lead Consultant, Enterprise Solutions      	       2012 – 2013
 Quanteq Technology Services Limited
 -Succeeded in completing several projects by leading project teams as an IT project manager. 
 -Led business strategy in planning and roadmap analysis for pre-sales and after sales.
 
-Systems Administrator, Microsoft Practice             	       2010 – 2012 
+## Systems Administrator, Microsoft Practice             	       2010 – 2012 
 Quanteq Technology Services Limited
 -Surpassed expectations by demonstrating competency in analyzing, designing, and implementing solutions on multiple business technologies and platforms to meet specific client’s business needs. 
 
-Intern, Microsoft Practice             			        2008 – 2010 
+## Intern, Microsoft Practice             			        2008 – 2010 
 Quanteq Technology Services Limited
 -Support in the implementation of several business solutions delivered with Microsoft and Cisco solutions.   
 
