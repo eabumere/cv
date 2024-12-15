@@ -25,7 +25,7 @@ Python, Java, Camel, JavaScript, PHP, android, Angular, React, SQL, Firebase, Ne
 
 # PROFESSIONAL EXPERIENCE
 ## Manager, Programmatic Solutions- Development and Innovations Lead               		2023 – Date
-FHI360 UK, United Kingdom
+FHI360 UK, United Kingdom \n
 -Responsible for entire project life cycle to include, but not limited to, requirements assessment, project definition and project delivery utilizing resources for the development of and initial implementation of FHI 360 custom applications and other new applications in a matrix management environment 
 -Lead the expansion of functionalities/improvements for already existing applications. 
 -Lead innovations to operations- expanding automation of processes.
