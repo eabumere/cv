@@ -1,30 +1,30 @@
 # cv.md
-PERSONAL STATEMENT 
+# PERSONAL STATEMENT 
 I have over fifteen years of experience in information technology as a systems analyst, IT project manager, software engineer and business analyst. I manage global stakeholders and projects at all levels. I am passionate about solving problems for businesses with people, processes, and technology. My aim is bringing innovations to help meet business needs. I continuously develop and expand my knowledge using all available resources to meet evolving business needs and challenges.
-EDUCATION
+
+#EDUCATION
 University of Northampton, United Kingdom
-MSc. IT Computing	(Distinction)				2021 - 2023
+MSc. IT Computing	(Distinction)				
 
 Kalu Institute, Humanitarian Aid Studies Centre, Madrid-Spain
-MSc. International Cooperation and Humanitarian Aid		2018 – 2019
+MSc. International Cooperation and Humanitarian Aid
 
 University of Washington, USA.                                                                                            
-Leadership and Management in Health	 Training			2015
+Leadership and Management in Health	 Training
 
 University of Northampton, United Kingdom.                                                                                            
-MSc. IT Service Management					2014 – 2017
+MSc. IT Service Management
 
-Enugu State University of Science and Technology 			2002 - 2007 
+Enugu State University of Science and Technology
 BEng. Electrical Electronic Engineering
 
-CERTIFICATIONS
+# CERTIFICATIONS
 Project Management Professional (PMP), IIBA Certified Business Analysis Professional (CBAP), Microsoft Azure Fundamentals
-TECHNICAL SKILLS
+# TECHNICAL SKILLS
 Python, Java, Camel, JavaScript, PHP, android, Angular, React, SQL, Firebase, Neo4j, Django, MS Servers, PowerBI, Linux, Biometrics, SharePoint Server Administration, Salesforce Administration, GIT, SQLite, DHIS2, ODK, Processmaker, Azure basic administration.
-TRAINING¬
--Pandas for Data Science - Advanced Python - Software Engineering Essentials (Java) - ReactJS: Building an Interface - AngularJS: Building an Interface/Adding registration to your Application - Programming Mobile Applications for Android Handheld Systems – DHIS2 level 2 expert developer training - DHIS2 level 2 integration Academy Level 2 training – Implementing Integrated Information Systems Academy
 
-PROFESSIONAL EXPERIENCE
+
+# PROFESSIONAL EXPERIENCE
 Manager, Programmatic Solutions- Development and Innovations Lead               		2023 – Date
 FHI360 UK, United Kingdom
 -Responsible for entire project life cycle to include, but not limited to, requirements assessment, project definition and project delivery utilizing resources for the development of and initial implementation of FHI 360 custom applications and other new applications in a matrix management environment 
@@ -101,7 +101,7 @@ Intern, Microsoft Practice             			        2008 – 2010
 Quanteq Technology Services Limited
 -Support in the implementation of several business solutions delivered with Microsoft and Cisco solutions.   
 
-BUSINESS SKILLS
+# BUSINESS SKILLS
 -Understanding of the funder’s expectation working in non-government environment for 12+ years.
 -Understanding of HIV/AIDS and non-health impact support programmes.
 -Project progress tracking by maintaining communication with stakeholders.
@@ -110,13 +110,13 @@ BUSINESS SKILLS
 -Apply logical, analytical, and creative approach to problems.
 -Ability to work both in a team and alone to achieve project deliverables.
 
-AWARD/ RECOGNITION
+# AWARD/ RECOGNITION
 -Finalist DHIS2 app competition - 2024
 -FHI360 Notice of Outstanding Work (NOW) Award Recipient – 2023.
 -FHI360 Notice of Outstanding Work (NOW) Award Recipient – 2019.
 -FHI360 Impact Award (ESITA team award) – 2017.
 
-PRESENTATIONS
+# PRESENTATIONS
 - “Strategies for adopting DHIS2 for education, next phase for non-health?” Annual DHIS2 Symposium 2022, USA.
 - NETHOPE Global Summit 2023 Presenter, Germany.
 - DHIS2 Annual Conference 2024: DHIS2 Version Testing. Oslo, Norway
