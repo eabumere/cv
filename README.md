@@ -119,7 +119,7 @@ Quanteq Technology Services Limited
 
 # AWARD/ RECOGNITION
 - Finalist DHIS2 app competition - 2024
-- HI360 Notice of Outstanding Work (NOW) Award Recipient – 2023.
+- FHI360 Notice of Outstanding Work (NOW) Award Recipient – 2023.
 - FHI360 Notice of Outstanding Work (NOW) Award Recipient – 2019.
 - FHI360 Impact Award (ESITA team award) – 2017.
 
