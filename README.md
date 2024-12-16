@@ -41,6 +41,10 @@ FHI360 UK, United Kingdom
 - Responsible for escalation management as needed to other ISS teams or ISS management
 - Supports the development, implementation and monitoring of the Programmatic Solutions unit and ISS department strategies 
 - Provides leadership and management oversight, including agreeing priorities and monitoring accomplishments and challenges within their assigned ISS team.
+
+## IT Consultant 2021 - Date
+Azymus Consulting UK
+ - Strategic Leadership: Define the firm’s mission, identify market opportunities, and develop long-term plans.
  
 ## Senior Application Analyst                                        		2021 – 2023
 FHI360 UK, United Kingdom
