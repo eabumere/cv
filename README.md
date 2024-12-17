@@ -42,7 +42,7 @@ FHI360 UK, United Kingdom
 - Supports the development, implementation and monitoring of the Programmatic Solutions unit and ISS department strategies 
 - Provides leadership and management oversight, including agreeing priorities and monitoring accomplishments and challenges within their assigned ISS team.
 
-## IT Consultant 2021 - Date
+## Solution Architect 2021 - Date
 Azymus Consulting UK
  - Strategic Leadership, identify market opportunities and develop long-term plans.
  - Solution achtitect, project management and business analysis.
