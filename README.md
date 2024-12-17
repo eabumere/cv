@@ -44,7 +44,7 @@ FHI360 UK, United Kingdom
 
 ## IT Consultant 2021 - Date
 Azymus Consulting UK
- - Strategic Leadership, identify market opportunities and develop long-term plans
+ - Strategic Leadership, identify market opportunities and develop long-term plans.
  - Solution achtitect, project management and business analysis.
  
 ## Senior Application Analyst                                        		2021 – 2023
