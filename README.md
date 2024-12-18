@@ -80,7 +80,7 @@ Family Health International (FHI 360)
 Family Health International (FHI 360) - Strengthening Integrated Delivery of HIV/AIDS (SIDHAS) – USAID FUNDED
 - Coordinated an ITIL based IT service desk and managing service request of about 300 – 500 Staff in 13 remote locations. 
 - Pioneered the software development unit in web and mobile applications for data collections and reporting using custom android mobile applications and neurotech biometrics for UNHCR.
-- Worked Closely with the Health Systems Strengthening (HSS) to develop dashboards with Tableau, modelling Site Improvement through Monitoring Systems (SIMS) in Open Data Kit (ODK).
+- Worked Closely with the Health Systems Strengthening (HSS) team to develop dashboards with Tableau, modelling Site Improvement through Monitoring Systems (SIMS) in Open Data Kit (ODK).
 - Led IT Support for USAID funded - AKWA Ibom State AIDS Indicator Survey (AKAIS) – working closely with external consultants on CSPRO mobile application and provided training to over 300 Adhoc Staff.
 - Led an Adhoc team of over 50 members for field data collections and provided first line of support for all technology related issues
 - Provided software solutions expertise and leadership in automating travels business processes used by over 800 in-country Staff that reduced processing approvals time by 80%.
