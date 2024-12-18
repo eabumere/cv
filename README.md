@@ -46,6 +46,10 @@ FHI360 UK, United Kingdom
 Azymus Consulting UK
  - Strategic Leadership, identify market opportunities and develop long-term plans.
  - Solution achtitect, project management and business analysis.
+
+## Founder 2018 - Date
+Customer Trust Solutions, Nigeria
+- Working effectively with the firm’s leadership to align on goals
  
 ## Senior Application Analyst                                        		2021 – 2023
 FHI360 UK, United Kingdom
