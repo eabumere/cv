@@ -28,6 +28,10 @@ Python, Java, Camel, JavaScript, PHP, android, Angular, React, SQL, Firebase, Ne
 
 
 # PROFESSIONAL EXPERIENCE
+## Freelance IT Consultant | Tech Problem Solver 2021 - Date
+I am a dedicated and results-driven IT professional with over 15years of experience in providing top-tier IT solutions to businesses and individuals. I provide channelled solutions to problems, offering tailored services to meet the unique needs of my clients. Whether you're looking to streamline your IT processes, secure your systems, or develop cutting-edge applications, I bring expertise, creativity, and a commitment to excellence.
+
+
 ## Solution Architect 2021 - Date
 Azymus Consulting UK
  - Strategic Leadership, identify market opportunities and develop long-term plans.
