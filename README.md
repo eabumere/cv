@@ -23,6 +23,7 @@ BEng. Electrical Electronic Engineering
 
 # CERTIFICATIONS
 Project Management Professional (PMP), IIBA Certified Business Analysis Professional (CBAP), Microsoft Azure Fundamentals
+
 # TECHNICAL SKILLS
 Python, Java, Camel, JavaScript, PHP, android, Angular, React, SQL, Firebase, Neo4j, Django, MS Servers, PowerBI, Linux, Biometrics, SharePoint Server Administration, Salesforce Administration, GIT, SQLite, DHIS2, ODK, Processmaker, Azure basic administration.
 
