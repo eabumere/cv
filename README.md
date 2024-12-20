@@ -1,4 +1,5 @@
 # Details
+Abumere Ejakhegbe MSc, PMP, CBAP
 E: abumere.ejakhegbe@gmail.com
 
 # PERSONAL STATEMENT 
