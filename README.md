@@ -1,6 +1,5 @@
 # Details
 E: abumere.ejakhegbe@gmail.com
-LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/abumere-ejakhegbe-b9048b48/)
 
 # PERSONAL STATEMENT 
 I have over fifteen years of experience in information technology as a systems analyst, IT project manager, software engineer and business analyst. I manage global stakeholders and projects at all levels. I am passionate about solving problems for businesses with people, processes, and technology. My aim is bringing innovations to help meet business needs. I continuously develop and expand my knowledge using all available resources to meet evolving business needs and challenges.
