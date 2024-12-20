@@ -28,7 +28,16 @@ Python, Java, Camel, JavaScript, PHP, android, Angular, React, SQL, Firebase, Ne
 
 
 # PROFESSIONAL EXPERIENCE
-## Manager, Programmatic Solutions- Development and Innovations Lead               		2023 – Date
+## Solution Architect 2021 - Date
+Azymus Consulting UK
+ - Strategic Leadership, identify market opportunities and develop long-term plans.
+ - Solution achtitect, project management and business analysis.
+
+## Founder 2018 - Date
+Customer Trust Solutions, Nigeria
+- Working effectively with the firm’s leadership to align on goals
+  
+## Manager, Programmatic Solutions- Development and Innovations Lead
 FHI360 UK, United Kingdom 
 - Responsible for entire project life cycle to include, but not limited to, requirements assessment, project definition and project delivery utilizing resources for the development of and initial implementation of FHI 360 custom applications and other new applications in a matrix management environment 
 - Lead the expansion of functionalities/improvements for already existing applications. 
@@ -42,14 +51,7 @@ FHI360 UK, United Kingdom
 - Supports the development, implementation and monitoring of the Programmatic Solutions unit and ISS department strategies 
 - Provides leadership and management oversight, including agreeing priorities and monitoring accomplishments and challenges within their assigned ISS team.
 
-## Solution Architect 2021 - Date
-Azymus Consulting UK
- - Strategic Leadership, identify market opportunities and develop long-term plans.
- - Solution achtitect, project management and business analysis.
 
-## Founder 2018 - Date
-Customer Trust Solutions, Nigeria
-- Working effectively with the firm’s leadership to align on goals
  
 ## Senior Application Analyst                                        		2021 – 2023
 FHI360 UK, United Kingdom
